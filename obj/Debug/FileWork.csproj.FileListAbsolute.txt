@@ -1,0 +1,7 @@
+D:\Programming\SPZ lections\lab4\FileWork\FileWork\bin\Debug\FileWork.exe.config
+D:\Programming\SPZ lections\lab4\FileWork\FileWork\bin\Debug\FileWork.exe
+D:\Programming\SPZ lections\lab4\FileWork\FileWork\bin\Debug\FileWork.pdb
+D:\Programming\SPZ lections\lab4\FileWork\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+D:\Programming\SPZ lections\lab4\FileWork\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+D:\Programming\SPZ lections\lab4\FileWork\FileWork\obj\Debug\FileWork.exe
+D:\Programming\SPZ lections\lab4\FileWork\FileWork\obj\Debug\FileWork.pdb
