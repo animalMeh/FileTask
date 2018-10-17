@@ -16,7 +16,6 @@ namespace FileWork
             string text = File.ReadAllText(filename);
             var splitedNumbers = text.Split(' ');
 
-          
             var mostPopularNumberCount = numbers.GroupBy(n => n).Select(g => g.Count()).Max();
             
             using (StreamWriter sw = new StreamWriter("out" + filename, true, Encoding.ASCII))
